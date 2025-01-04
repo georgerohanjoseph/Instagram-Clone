@@ -1,8 +1,7 @@
 # Instagram-Clone
 
 1. Find the 10 oldest users.
-   [https://github.com/georgerohanjoseph/MAVEN_MOVIES/blob/main/Images/igclone_1.png]
-   
+      
 3. What day of the week do the most users register on?
 4. Find out the users who havent posted a picture.
 5. Write a query to find out who has got the most number of likes on a single photo.
