@@ -13,18 +13,28 @@ The project uses an SQL database
 
 # Questions
 1. Find the 10 oldest users.
+
+   
    ![image](https://github.com/user-attachments/assets/02d8bda2-66d9-4530-bc45-f46ffb9fb6d0)
         
 3. What day of the week do the most users register on?
+
+   
    ![image](https://github.com/user-attachments/assets/c1d116e0-c2a3-4642-bac5-11e291e0cafe)
 
 5. Find out the users who havent posted a picture.
+
+   
    ![image](https://github.com/user-attachments/assets/685e860d-1e05-494e-86c1-1bb8fde00bac)
 
 7. Write a query to find out who has got the most number of likes on a single photo.
+
+   
    ![image](https://github.com/user-attachments/assets/c6fb1f34-f9ec-42bc-b06d-d3fff02ce29f)
 
 9.  How many times does an average user post?
+
+    
     ![image](https://github.com/user-attachments/assets/b7fa205f-0f81-438d-8d8c-2b8b015ac40d)
 
 11.  User ranking by postings( higher to lower)
