@@ -9,7 +9,7 @@ The project uses an SQL database
 
 # Tools & Library Used
 
-Images/mysql_logo.png
+https://raw.githubusercontent.com/georgerohanjoseph/Instagram-Clone/931fd93617d7e6574bb2ed7911955e3bd6e512a9/Images/mysql_logo.png
 
 1. Find the 10 oldest users.
       
