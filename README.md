@@ -9,6 +9,8 @@ The project uses an SQL database
 
 # Tools & Library Used
 
+Images/mysql_logo.png
+
 1. Find the 10 oldest users.
       
 3. What day of the week do the most users register on?
