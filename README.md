@@ -1,5 +1,14 @@
 # Instagram-Clone
 
+This project aims to create a simple Instagram-like platform using SQL to manage user data, posts, comments, and likes. The goal is to provide the backend structure for handling user interactions, similar to Instagram, but simplified for learning purposes.
+
+Database Structure
+The project uses an SQL database
+
+## Project Scope This Instagram clone project focuses on the backend/database aspects of the application.
+
+# Tools & Library Used
+
 1. Find the 10 oldest users.
       
 3. What day of the week do the most users register on?
