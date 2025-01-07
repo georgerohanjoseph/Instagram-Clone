@@ -38,6 +38,7 @@ The project uses an SQL database
     ![image](https://github.com/user-attachments/assets/b7fa205f-0f81-438d-8d8c-2b8b015ac40d)
 
 11.  User ranking by postings( higher to lower)
+    
     ![image](https://github.com/user-attachments/assets/28b3aa8c-8fe4-474a-864c-f996ce70ecc9)
 
 13.  Total posts by users
