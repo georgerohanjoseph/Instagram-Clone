@@ -11,7 +11,7 @@ The project uses an SQL database
 
 ![image](https://github.com/user-attachments/assets/863b5634-0d0f-4d33-a119-1ab53aa5c24b)
 
-
+# Questions
 1. Find the 10 oldest users.
       
 3. What day of the week do the most users register on?
